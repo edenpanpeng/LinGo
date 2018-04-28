@@ -1,0 +1,11 @@
+E:\LinGo\WebUI\bin\Debug\netcoreapp2.0\WebUI.deps.json
+E:\LinGo\WebUI\bin\Debug\netcoreapp2.0\WebUI.runtimeconfig.json
+E:\LinGo\WebUI\bin\Debug\netcoreapp2.0\WebUI.runtimeconfig.dev.json
+E:\LinGo\WebUI\bin\Debug\netcoreapp2.0\WebUI.dll
+E:\LinGo\WebUI\bin\Debug\netcoreapp2.0\WebUI.pdb
+E:\LinGo\WebUI\obj\Debug\netcoreapp2.0\WebUI.csprojResolveAssemblyReference.cache
+E:\LinGo\WebUI\obj\Debug\netcoreapp2.0\WebUI.csproj.CoreCompileInputs.cache
+E:\LinGo\WebUI\obj\Debug\netcoreapp2.0\WebUI.AssemblyInfoInputs.cache
+E:\LinGo\WebUI\obj\Debug\netcoreapp2.0\WebUI.AssemblyInfo.cs
+E:\LinGo\WebUI\obj\Debug\netcoreapp2.0\WebUI.dll
+E:\LinGo\WebUI\obj\Debug\netcoreapp2.0\WebUI.pdb
