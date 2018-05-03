@@ -12536,23 +12536,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Eden\\.nuget\\packages\\": {},
+    "C:\\Users\\13052\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "E:\\LinGo\\WebUI\\WebUI.csproj",
       "projectName": "WebUI",
       "projectPath": "E:\\LinGo\\WebUI\\WebUI.csproj",
-      "packagesPath": "C:\\Users\\Eden\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\13052\\.nuget\\packages\\",
       "outputPath": "E:\\LinGo\\WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Eden\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\13052\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12560,7 +12563,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "E:\\LC_ZIP\\@lib\\nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -12577,14 +12579,14 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.All": {
-            "target": "Package",
-            "version": "[2.0.6, )"
-          },
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0",
             "autoReferenced": true
+          },
+          "Microsoft.AspNetCore.All": {
+            "target": "Package",
+            "version": "2.0.6"
           }
         },
         "imports": [
